@@ -35,14 +35,6 @@ npm install ts-loader -D
 # styled-component
 npm install styled-components @types/styled-components babel-plugin-styled-components -D
 
-# recoil
-npm install recoil
-
-# react-query
-npm install react-query
-
-# antd
-npm install antd @ant-design/icons
 
 ```
 
