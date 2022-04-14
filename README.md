@@ -33,7 +33,9 @@ npm install @types/react @types/react-dom typescript
 npm install ts-loader -D
 
 # styled-component
-npm install styled-components @types/styled-components babel-plugin-styled-components -D
+npm install styled-components
+
+npm install @types/styled-components babel-plugin-styled-components -D
 
 
 ```
